@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamad Anas Fattoum</h1>
-<h3 align="center">A junior Django Python developer from Germany</h3>
+<h3 align="center">A junior Python Django developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadanasfattoum&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadanasfattoum" /> </p>
 
